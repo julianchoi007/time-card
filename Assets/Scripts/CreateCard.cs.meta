@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 767db3d8b7738d045b1a4fcdea27870a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - yourButton: {instanceID: 0}
+  - allyCard: {fileID: 5400008249256947042, guid: 0d7e8cf74d98068459ae8c54976f1225, type: 3}
+  - enemyCard: {fileID: 7542677991489972454, guid: d55481ad6dc50654483d555ac3d2e535, type: 3}
+  - hand: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
